@@ -1,0 +1,6 @@
+EPG server restart
+C:\epgstart.bat
+1files.bat
+files.bat
+3cancel
+restart
